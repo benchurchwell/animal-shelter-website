@@ -1,17 +1,27 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.column {
+  width: 20%;
+  height: 20%;
+  float: left;
+}
 .charlie {
   width: 40%;
-  align: left;
+  height: 40%;
   border: solid black;
-  border-width: 1px;
+  border-width: 3px;
   background-color: paleturquoise;
   margin-bottom: 10px;
 }
 
 .larry {
   width: 40%;
-  align: right;
+  box-align: right;
   border: solid black;
-  border-width: 1px;
+  border-width: 3px;
   background-color: palegreen;
   margin-bottom: 10px;
 }
@@ -19,7 +29,7 @@
 .leon {
   width: 40%;
   border: solid black;
-  border-width: 1px;
+  border-width: 3px;
   background-color: palegoldenrod;
   margin-bottom: 10px;
 }
@@ -27,7 +37,7 @@
 .jeff {
   width: 40%;
   border: solid black;
-  border-width: 1px;
+  border-width: 3px;
   background-color: palevioletred;
   margin-bottom: 10px;
 }
