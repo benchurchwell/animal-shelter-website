@@ -1,0 +1,33 @@
+.charlie {
+  width: 40%;
+  align: left;
+  border: solid black;
+  border-width: 1px;
+  background-color: paleturquoise;
+  margin-bottom: 10px;
+}
+
+.larry {
+  width: 40%;
+  align: right;
+  border: solid black;
+  border-width: 1px;
+  background-color: palegreen;
+  margin-bottom: 10px;
+}
+
+.leon {
+  width: 40%;
+  border: solid black;
+  border-width: 1px;
+  background-color: palegoldenrod;
+  margin-bottom: 10px;
+}
+
+.jeff {
+  width: 40%;
+  border: solid black;
+  border-width: 1px;
+  background-color: palevioletred;
+  margin-bottom: 10px;
+}
